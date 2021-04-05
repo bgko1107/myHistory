@@ -2,9 +2,8 @@
 
 달빛 라이브 서비스
 
-<label>아래의 화면은 달빛라이브 앱 화면이며
+아래의 화면은 달빛라이브 앱 화면이며
 Web, 앱 화면의 Rest ful Api 를 개발하였습니다.
-</label>
 
 
 <img src="https://raw.githubusercontent.com/kobyunggwon/myHistory/main/image/KakaoTalk_20210401_133329351.jpg">
