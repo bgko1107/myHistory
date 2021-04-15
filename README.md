@@ -14,7 +14,7 @@
   <p>　　　3) 형상관리 솔루션 유지보수 및 운영, 사용기술 : Java, Flex, Jsp, Java Script, Mybatis ,Oracle, Unix, Linux, Tomcat, Was, C<br/></p>
  </li>
  <li>
-  <p>사용기술 : Java, Flex, Jsp, Java Script, Mybatis ,Oracle, Unix, Linux, Tomcat, Was, C, Svn</p>
+  <p>사용기술 : Java, Flex, Jsp, Java Script, Mybatis ,Oracle, Unix, Linux, Tomcat, Was, C, Eclipse, Svn</p>
  </li>
  <li>
   <p>프로젝트 </p>
@@ -56,7 +56,7 @@
   <p>　　　2) 달빛 라이브 서비스 관리자 페이지 개발, 사용기술 :  Java, Jsp, Java Script, Mybaits, Maria DB, MY-SQL, Bootstrap, Spring Boot, Jenkins, Git </p>
  </li>
  <li>
-  <p>사용기술 : Java, Jsp, Java Script, Mybaits, Maria DB, MY-SQL, Bootstrap, Spring Boot, Jenkins, intellij, Git</p>
+  <p>사용기술 : Java, Jsp, Java Script, Mybaits, Maria DB, MY-SQL, Bootstrap, Spring Boot, Jenkins, Intellij, Git</p>
  </li>
 
 <img src="https://raw.githubusercontent.com/kobyunggwon/myHistory/main/image/dalbitLive.png">
