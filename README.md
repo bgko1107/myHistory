@@ -1,12 +1,13 @@
 # myhistory
 
+인포렉스 
+
 달빛 라이브 서비스
 
-아래의 화면은 달빛라이브 앱 화면이며
-Web, 앱 화면의 Rest ful Api 를 개발하였습니다.
-
-
-
+ ● 기간 : 2020.01 ~ 진행중
+ ● 역활 : 1) 달빛 라이브 서비스 Rest Ful Api 개발
+          2) 달빛 라이브 서비스 관리자 페이지 개발
+ ● 사용기술 : Java, Jsp, Java Script, Maria DB, MY-SQL, Bootstrap, Spring Boot, intellij
 
 <img src="https://raw.githubusercontent.com/kobyunggwon/myHistory/main/image/KakaoTalk_20210401_133329351.jpg">
 <img src="https://raw.githubusercontent.com/kobyunggwon/myHistory/main/image/KakaoTalk_20210401_133330043.jpg">
