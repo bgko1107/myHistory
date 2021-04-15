@@ -6,15 +6,15 @@
 
 <ul>
  <li>
-  <p>기간 : 2013.02 ~ 2020.01</p>
+  <p>기간 : 2013.02 ~ 2020.01 / 개발팀</p>
  </li>
  <li>
-  <p>역할 : 1) 형상관리 솔루션 WEB 화면 개발<br/></p>
-  <p>　　　2) 형상관리 솔루션 Plugin 개발<br/></p>
-  <p>　　　3) 형상관리 솔루션 유지보수 및 운영<br/></p>
+  <p>역할 : 1) 형상관리 솔루션 WEB 화면 개발, 사용기술 : Flex, Jsp, Java Script, Java, Oracle, Unix, Linux, Tomcat, Was</p>
+  <p>　　　2) 형상관리 솔루션 Plugin 개발, 사용기술 : Java, Mybatis, Oracle, Unix, Linux</p>
+  <p>　　　3) 형상관리 솔루션 유지보수 및 운영, 사용기술 : Java, Flex, Jsp, Java Script, Mybatis ,Oracle, Unix, Linux, Tomcat, Was, C<br/></p>
  </li>
  <li>
-  <p>사용기술 : Java, Flex, Jsp, Java Script, Mybatis ,Oracle, Unix, Linux, Tomcat, Was, C</p>
+  <p>사용기술 : Java, Flex, Jsp, Java Script, Mybatis ,Oracle, Unix, Linux, Tomcat, Was, C, Svn</p>
  </li>
  <li>
   <p>프로젝트 </p>
@@ -46,14 +46,14 @@
 
 <ul>
  <li>
-  <p>기간 : 2020.01 ~ 진행중</p>
+  <p>기간 : 2020.01 ~ 진행중 / 개발1팀 Back-End</p>
  </li>
  <li>
-  <p>역할 : 1) 달빛 라이브 서비스 Rest Ful Api 개발<br/></p>
-  <p>　　　2) 달빛 라이브 서비스 관리자 페이지 개발<br/></p>
+  <p>역할 : 1) 달빛 라이브 서비스 Rest Ful Api 개발, 사용기술 : Java, Mybatis, Maria DB, MY-SQL, Spring Boot, Jenkins, Git</p>
+  <p>　　　2) 달빛 라이브 서비스 관리자 페이지 개발, 사용기술 :  Java, Jsp, Java Script, Mybaits, Maria DB, MY-SQL, Bootstrap, Spring Boot, Jenkins, Git </p>
  </li>
  <li>
-  <p>사용기술 : Java, Jsp, Java Script, Mybaits, Maria DB, MY-SQL, Bootstrap, Spring Boot, Jenkins, intellij</p>
+  <p>사용기술 : Java, Jsp, Java Script, Mybaits, Maria DB, MY-SQL, Bootstrap, Spring Boot, Jenkins, intellij, Git</p>
  </li>
 
 <img src="https://raw.githubusercontent.com/kobyunggwon/myHistory/main/image/dalbitLive.png">
