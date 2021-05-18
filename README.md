@@ -48,7 +48,7 @@
 
 <ul>
  <li>
-  <p>기간 : 2020.01 ~ 진행중 / 개발1팀 Back-End</p>
+  <p>기간 : 2020.01 ~ 2020.04 / 개발1팀 Back-End</p>
  </li>
  <li>
   <p>역할 : 1) 달빛 라이브 서비스 Rest Ful Api 개발, 사용기술 : Java, Mybatis, Maria DB, MY-SQL, Spring Boot, Jenkins, Git</p>
